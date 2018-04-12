@@ -8,3 +8,7 @@ Miwok is a language becoming dead. To save the culture and language MiwokApp tea
 
 ![screenshot_2018-04-12-21-29-21-289_com example android miwok](https://user-images.githubusercontent.com/29420591/38689526-87bc951e-3e99-11e8-8563-409b8eeadefb.png)
 
+
+![screenshot_2018-04-12-21-29-54-013_com example android miwok](https://user-images.githubusercontent.com/29420591/38689641-c8f4bfb6-3e99-11e8-8b34-bdfe35110ba1.png)
+
+
